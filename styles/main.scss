@@ -1,0 +1,12 @@
+/* ====== Reset ====== */
+@use "scss/base/reset";
+/* ====== Variables ====== */
+@use "scss/abstracts/variables";
+/* ====== Components ====== */
+@use "scss/components/header";
+@use "scss/components/nav";
+@use "scss/components/features";
+@use "scss/components/testimonials";
+@use "scss/components/picturesGrid";
+@use "scss/components/footer";
+@use "scss/components/scrollbar";
